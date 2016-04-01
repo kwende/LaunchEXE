@@ -1,0 +1,16 @@
+C:\Users\Ben\Documents\Visual Studio 2015\Projects\LaunchWPFProcess\Caller\bin\Debug\Caller.exe.config
+C:\Users\Ben\Documents\Visual Studio 2015\Projects\LaunchWPFProcess\Caller\bin\Debug\Caller.exe
+C:\Users\Ben\Documents\Visual Studio 2015\Projects\LaunchWPFProcess\Caller\bin\Debug\Caller.pdb
+C:\Users\Ben\Documents\Visual Studio 2015\Projects\LaunchWPFProcess\Caller\bin\Debug\Callee.exe
+C:\Users\Ben\Documents\Visual Studio 2015\Projects\LaunchWPFProcess\Caller\bin\Debug\Callee.pdb
+C:\Users\Ben\Documents\Visual Studio 2015\Projects\LaunchWPFProcess\Caller\obj\Debug\Caller.csprojResolveAssemblyReference.cache
+C:\Users\Ben\Documents\Visual Studio 2015\Projects\LaunchWPFProcess\Caller\obj\Debug\MainWindow.g.cs
+C:\Users\Ben\Documents\Visual Studio 2015\Projects\LaunchWPFProcess\Caller\obj\Debug\App.g.cs
+C:\Users\Ben\Documents\Visual Studio 2015\Projects\LaunchWPFProcess\Caller\obj\Debug\Caller_MarkupCompile.cache
+C:\Users\Ben\Documents\Visual Studio 2015\Projects\LaunchWPFProcess\Caller\obj\Debug\Caller_MarkupCompile.lref
+C:\Users\Ben\Documents\Visual Studio 2015\Projects\LaunchWPFProcess\Caller\obj\Debug\MainWindow.baml
+C:\Users\Ben\Documents\Visual Studio 2015\Projects\LaunchWPFProcess\Caller\obj\Debug\Caller.g.resources
+C:\Users\Ben\Documents\Visual Studio 2015\Projects\LaunchWPFProcess\Caller\obj\Debug\Caller.Properties.Resources.resources
+C:\Users\Ben\Documents\Visual Studio 2015\Projects\LaunchWPFProcess\Caller\obj\Debug\Caller.csproj.GenerateResource.Cache
+C:\Users\Ben\Documents\Visual Studio 2015\Projects\LaunchWPFProcess\Caller\obj\Debug\Caller.exe
+C:\Users\Ben\Documents\Visual Studio 2015\Projects\LaunchWPFProcess\Caller\obj\Debug\Caller.pdb
